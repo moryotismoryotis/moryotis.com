@@ -1,4 +1,11 @@
 # moryotis.com
+# 🏛️ Moryotis — Le Village des Créateurs
+
+![Démo interactive du Village 3D](visuals/demo.gif)
+
+**Moryotis** est un environnement web 3D immersif et interactif conçu pour connecter et mettre en valeur les artistes.
+... 
+
 Moryotis : l'évolution du site vitrine vers un véritable Village des Créateurs en 3D. Un espace web immersif et interactif propulsé par Supabase pour connecter les artistes. Explorez des environnements virtuels dynamiques, gérez des bases de données d'assets et découvrez une nouvelle manière d'exposer du contenu multimédia.
 # 🏛️ Moryotis — Le Village des Créateurs
 
