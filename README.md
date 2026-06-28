@@ -3,7 +3,6 @@
 # moryotis.com
 # 🏛️ Moryotis — Le Village des Créateurs
 
-![Démo interactive du Village 3D](visuals/demo.gif)
 
 **Moryotis** est un environnement web 3D immersif et interactif conçu pour connecter et mettre en valeur les artistes.
 ... 
