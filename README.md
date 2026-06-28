@@ -1,4 +1,3 @@
-![Visualisation interactive du Village 3D Moryotis](visuals/Demo.Gif.gif)
 <p align="center"><img src="visuals/Demo.Gif.gif" alt="Démo 3D" width="600px" /></p>
 # moryotis.com
 # 🏛️ Moryotis — Le Village des Créateurs
